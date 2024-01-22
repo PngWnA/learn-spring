@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'net.pngwna.learn-spring' is invalid and this project uses 'net.pngwna.learnspring' instead.
-
 # Getting Started
 
 ### Reference Documentation
